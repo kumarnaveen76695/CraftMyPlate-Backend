@@ -9,7 +9,7 @@ The Food Delivery Backend API is a RESTful API designed to manage restaurants an
 - [API Endpoints](#api-endpoints)
 - [Example JSON Data](#example-json-data)
 - [Usage with Postman](#usage-with-postman)
-- [License](#license)
+  
 
 ## Technologies Used
 This project uses the following technologies:
