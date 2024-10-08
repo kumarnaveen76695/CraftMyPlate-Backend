@@ -121,3 +121,6 @@ in postman
 
 ![alt text](image-6.png)
 
+github url:https://github.com/kumarnaveen76695
+github project repository url: https://github.com/kumarnaveen76695/CraftMyPlate-Backend.git
+gmail:kumarnaveen76695@gmail.com
