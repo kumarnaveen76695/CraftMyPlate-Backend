@@ -107,6 +107,11 @@ in postman
 
 ![alt text](image-5.png)
 
+##getting details of users
+
+![image](https://github.com/user-attachments/assets/47ff02fc-e551-4cec-9b30-c70284e724e8)
+
+
 2. **Retrieving Data**:
    - Use the GET method to fetch all restaurants or specific restaurant details by their ID.
 
